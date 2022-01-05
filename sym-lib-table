@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name rick-kicad-lib)(type Legacy)(uri ${KIPRJMOD}/lib/symbols/rick-kicad-lib.lib)(options "")(descr ""))
+  (lib (name kibod-01-rescue)(type Legacy)(uri ${KIPRJMOD}/kibod-01-rescue.lib)(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri /Users/michael/Desktop/kibod/kicad_lib_tmk-master/keyboard_parts.lib)(options "")(descr ""))
+)
