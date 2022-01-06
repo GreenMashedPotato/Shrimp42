@@ -12,7 +12,7 @@ Mirrored Keyboard, supports using 2 pro micros with trrs, or 1 pro micro with am
  todo
 
 ## Disclaimer
-I haven't printed any of it. No guaranmtees that they work. (will update after the pcbs arrived)
+I haven't printed any of it. No guarantees that they work. (will update after the pcbs arrived)
 If things go wrong, I won't take any responisibilities, Try at your own risk.
 
 ## License
