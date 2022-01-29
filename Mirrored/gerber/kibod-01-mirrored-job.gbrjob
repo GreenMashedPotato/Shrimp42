@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "(6.0.0-0)"
     },
-    "CreationDate": "2022-01-25T21:38:06+07:00"
+    "CreationDate": "2022-01-29T19:54:48+07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "kibod-01",
-      "GUID": "6b69626f-642d-4303-912e-6b696361645f",
+      "Name": "kibod-01-mirrored",
+      "GUID": "6b69626f-642d-4303-912d-6d6972726f72",
       "Revision": "rev?"
     },
     "Size": {
@@ -24,8 +24,8 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.2,
-      "PadToTrack": 0.2,
+      "PadToPad": 0.0,
+      "PadToTrack": 0.0,
       "TrackToTrack": 0.2,
       "MinLineWidth": 0.25,
       "TrackToRegion": 0.508,
@@ -34,67 +34,67 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "kibod-01-F_Cu.gtl",
+      "Path": "kibod-01-mirrored-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "kibod-01-B_Cu.gbl",
+      "Path": "kibod-01-mirrored-B_Cu.gbl",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "kibod-01-F_Adhesive.gta",
+      "Path": "kibod-01-mirrored-F_Adhesive.gta",
       "FileFunction": "Glue,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "kibod-01-B_Adhesive.gba",
+      "Path": "kibod-01-mirrored-B_Adhesive.gba",
       "FileFunction": "Glue,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "kibod-01-F_Paste.gtp",
+      "Path": "kibod-01-mirrored-F_Paste.gtp",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "kibod-01-B_Paste.gbp",
+      "Path": "kibod-01-mirrored-B_Paste.gbp",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "kibod-01-F_Silkscreen.gto",
+      "Path": "kibod-01-mirrored-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "kibod-01-B_Silkscreen.gbo",
+      "Path": "kibod-01-mirrored-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "kibod-01-F_Mask.gts",
+      "Path": "kibod-01-mirrored-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "kibod-01-B_Mask.gbs",
+      "Path": "kibod-01-mirrored-B_Mask.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "kibod-01-Edge_Cuts.gm1",
+      "Path": "kibod-01-mirrored-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "kibod-01-F_Fab.gbr",
+      "Path": "kibod-01-mirrored-F_Fab.gbr",
       "FileFunction": "AssemblyDrawing,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "kibod-01-B_Fab.gbr",
+      "Path": "kibod-01-mirrored-B_Fab.gbr",
       "FileFunction": "AssemblyDrawing,Bot",
       "FilePolarity": "Positive"
     }
