@@ -13,7 +13,7 @@ Mirrored Keyboard, supports using 2 pro micros with trrs, or 1 pro micro with am
  todo
 
 ## Disclaimer
-I haven't printed some of it. No guarantees that they work. (tested the mirrored version, found and fixed some issues)
+I haven't printed some of it. No guarantees that they work. (tested the mirrored version(using amphenol cable not trrs), found and fixed some issues)
 If things go wrong, I won't take any responisibilities, Try at your own risk.
 
 ## License
