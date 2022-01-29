@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "ffc19fd_ffffffff",
-    "zone_display_mode": 0
+    "visible_layers": "ffc1949_ffffffff",
+    "zone_display_mode": 1
   },
   "meta": {
-    "filename": "kibod-01.kicad_prl",
+    "filename": "kibod-01-mirrored.kicad_prl",
     "version": 3
   },
   "project": {
