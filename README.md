@@ -11,6 +11,13 @@ Mirrored Keyboard, supports using 2 pro micros with trrs, or 1 pro micro with am
 
 ## Materials
  todo
+ 
+## Updates:
+currently working on rev2(will take some time)
+things to update for rev2: 
+>add support for hotswap sockets
+>remove angle from innermost and outermost columns to reduce finger travel from resting position.
+>will drop trrs support(TBD)
 
 ## Disclaimer
 I haven't printed some of it. No guarantees that they work. (tested the mirrored version(using amphenol cable not trrs), found and fixed some issues)
