@@ -9,15 +9,17 @@ Mirrored Keyboard, supports using 2 pro micros with trrs, or 1 pro micro with am
 ![mirror](img/mirror.png)
 ![mirror](img/mirror-printed.jpg)
 
+Mirrored Keyboard Rev2, contains improvement from rev1 after using it for a while, supports using 1 pro micro with amphenol 10 cable:
+![mirror](img/mirror-rev2.png)
+improvements from rev1: 
+- adds support for hotswap sockets, 
+- changed angles from 2 to 3 degrees while reducing distance between columns. 
+- dropped trrs support(might re-add if a lot of people requests this, i personally don't use trrs)
+
+![mirror](img/rev1rev2.png)
+
 ## Materials
  todo
- 
-## Updates:
-currently working on rev2(will take some time)
-things to update for rev2: 
->add support for hotswap sockets
->remove angle from innermost and outermost columns to reduce finger travel from resting position.
->will drop trrs support(TBD)
 
 ## Disclaimer
 I haven't printed some of it. No guarantees that they work. (tested the mirrored version(using amphenol cable not trrs), found and fixed some issues)
