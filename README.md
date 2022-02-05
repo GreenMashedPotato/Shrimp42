@@ -9,13 +9,14 @@ Mirrored Keyboard, supports using 2 pro micros with trrs, or 1 pro micro with am
 ![mirror](img/mirror.png)
 ![mirror](img/mirror-printed.jpg)
 
-Mirrored Keyboard Rev2, contains improvement from rev1 after using it for a while, supports using 1 pro micro with amphenol 10 cable:
+Mirrored Keyboard Rev2, contains improvement from rev1 after using it for a while:
 ![mirror](img/mirror-rev2.png)
 improvements from rev1: 
 - adds support for hotswap sockets, 
 - changed angles from 2 to 3 degrees while reducing distance between columns. 
-- dropped trrs support(might re-add if a lot of people requests this, i personally don't use trrs)
+- add board name: Shrimp 42
 
+V1 vs V2(todo: need to update pic for trrs and amphenol position)
 ![mirror](img/rev1rev2.png)
 
 ## Materials
