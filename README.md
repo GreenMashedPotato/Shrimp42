@@ -1,4 +1,4 @@
-# kibod-01
+# Shrimp42(previously Kibod-01)
 
 it's a keyboard inspired by [Slepet](https://github.com/ibnuda/Slepet) that has more stagger in some columns and only 3 thumb cluster keys instead of 5.
 
@@ -9,7 +9,7 @@ Mirrored Keyboard, supports using 2 pro micros with trrs, or 1 pro micro with am
 ![mirror](img/mirror.png)
 ![mirror](img/mirror-printed.jpg)
 
-Mirrored Keyboard Rev2, contains improvement from rev1 after using it for a while:
+Mirrored Keyboard Rev2(renamed to Shrimp42), contains improvement from rev1 after using it for a while:
 ![mirror](img/mirror-rev2.png)
 improvements from rev1: 
 - adds support for hotswap sockets, 
