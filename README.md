@@ -14,7 +14,8 @@ Mirrored Keyboard, supports using 2 pro micros with trrs, or 1 pro micro with am
 Mirrored Keyboard Rev2(renamed to Shrimp42), contains improvement from rev1 after using it for a while:
 ![mirror](img/mirror-rev2.png)
 improvements from rev1: 
-- adds support for hotswap socketsas
+- adds support for hotswap sockets
+- adds support for smd diodes
 - changed angles from 2 to 3 degrees while reducing distance between columns. 
 - add board name: Shrimp 42
 
