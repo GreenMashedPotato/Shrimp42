@@ -1,5 +1,0 @@
-(fp_lib_table
-  (lib (name "footprints")(type "KiCad")(uri "/Users/michael/Documents/GitHub/Footprints/footprints")(options "")(descr ""))
-  (lib (name "animes")(type "KiCad")(uri "${KIPRJMOD}/lib/animes")(options "")(descr ""))
-  (lib (name "footprintsGlobal")(type "KiCad")(uri "D:/phuaa/Documents/KiCad/6.0/footprints")(options "")(descr ""))
-)

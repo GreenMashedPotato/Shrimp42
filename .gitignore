@@ -4,3 +4,4 @@ lib/*
 */lib/*
 **/*-backups/*
 **/_autosave*
+**/sym-lib-table
