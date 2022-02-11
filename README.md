@@ -26,7 +26,9 @@ V1 vs V2
  todo
  
 ## Firmware
- QMK and VIAL firmware in [here](https://github.com/GreenMashedPotato/vial-qmk/tree/kibod-01/keyboards/kibod01)
+QMK and VIAL (provided via firmware but will need to sideload json and is untested) firmware for using the keyboard like in my setup abov (using the extended GPIO pin to connect both halves and only 1 pro micro). [here](https://github.com/GreenMashedPotato/vial-qmk/tree/Shrimp42/keyboards/shrimp42).
+ 
+Haven't made the firmware for TRRS version (and havent tested the trrs connection) (i used the same trrs wiring as in [Squiggle](https://github.com/ibnuda/Squiggle) you should in theory be able to modify its firmware to fit this keyboard, no guarantees it will work).
 
 ## Disclaimer
 I haven't printed some of it. No guarantees that they work.
