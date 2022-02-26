@@ -1,4 +1,4 @@
-338588755568934
+337087323908061
 footprints
 1-4-mounting-hole
 
@@ -426,6 +426,13 @@ SMT, 2012, 0805
 0
 2
 2
+footprints
+HOLE_M2_TH
+
+
+0
+1
+0
 footprints
 HRO-TYPE-C-31-M-12-Assembly
 
@@ -980,6 +987,20 @@ Shrimp
 0
 0
 footprints
+Shrimp_small
+
+
+0
+0
+0
+footprints
+Shrimp_small_small
+
+
+0
+0
+0
+footprints
 SinglePad
 
 
@@ -1384,34 +1405,6 @@ ruler
 
 0
 6
-0
-footprints
-shrimp-minimalist
-
-
-0
-0
-0
-footprints
-shrimp-vector
-
-
-0
-0
-0
-footprints
-shrimp-vector_med
-
-
-0
-0
-0
-footprints
-shrimp-vector_small
-
-
-0
-0
 0
 footprints
 solder_jumper

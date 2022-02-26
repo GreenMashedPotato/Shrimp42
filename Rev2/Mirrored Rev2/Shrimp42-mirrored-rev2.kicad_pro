@@ -86,7 +86,7 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_over_copper": "warning",
+        "silk_over_copper": "ignore",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "through_hole_pad_without_hole": "error",
@@ -120,7 +120,10 @@
         "use_height_for_length_calcs": true
       },
       "track_widths": [
-        0.0
+        0.0,
+        0.05,
+        0.25,
+        0.5
       ],
       "via_dimensions": [
         {
@@ -347,7 +350,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "kibod-01-mirrored-rev2.kicad_pro",
+    "filename": "Shrimp42-mirrored-rev2.kicad_pro",
     "version": 1
   },
   "net_settings": {
